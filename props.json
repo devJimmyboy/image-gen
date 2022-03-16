@@ -1,0 +1,12 @@
+{
+	"title": "Donations",
+	"description": "Click to Donate!",
+	"slogan": "Much\nAppreciated.",
+	"icon": "fa6-solid:circle-dollar-to-slot",
+	"colors": {
+		"header": "#f2f2f2",
+		"background": "#00d06a",
+		"description": "#f2f2f2",
+		"icon": "#fff"
+	}
+}
